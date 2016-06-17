@@ -29,6 +29,9 @@ PyDict().run(timer=1.5)
 ```
 To stop script, simply close the screen.
 
-Screenshot -  
+Screenshots -  
 -------
-![Alt text](https://postimg.org/image/qzcztgagh/ "Screenshot 1")
+![Screenshot 1](https://s32.postimg.org/6f85uyuph/ss1.png "Screenshot 1")
+
+
+![Screenshot 2](https://s32.postimg.org/jr2sdw9md/ss2.png "Screenshot 2")
