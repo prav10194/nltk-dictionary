@@ -28,3 +28,7 @@ PyDict().run() #by default the script runs for 2 hours in background
 PyDict().run(timer=1.5)
 ```
 To stop script, simply close the screen.
+
+Screenshot -  
+-------
+![Alt text](https://postimg.org/image/qzcztgagh/ "Screenshot 1")
