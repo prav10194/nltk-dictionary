@@ -35,3 +35,16 @@ Screenshots -
 
 
 ![Screenshot 2](https://s32.postimg.org/jr2sdw9md/ss2.png "Screenshot 2")
+
+Steps to install pyperclip,nltk - 
+-------
+1. Extract the zip content
+2. Open cmd
+3. Run the following commands - 
+```cmd
+cd "folderpath where zip is extracted"
+python setup.py install
+```
+For nltk_data -
+-------
+1. Extract the contents in your python directory.
