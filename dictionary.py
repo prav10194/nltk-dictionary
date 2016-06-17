@@ -22,7 +22,7 @@ class PyDict:
             time.sleep(2)
 
             if word!=loop:
-                print(word+'\t'+loop)
+                #print(word+'\t'+loop)
                 define=wordnet.synsets(word)        
                 
                 #print(word)
