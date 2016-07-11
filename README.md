@@ -1,6 +1,6 @@
 nltk-dictionary
 =============
-A general dictionary (with synonyms, antonyms) for ebook users reading on PC. Just copy the word and it will automatically show you the various meaning(s) of the word. 
+A general dictionary (with synonyms, antonyms) for ebook users reading on PC. Just copy the word and it will automatically show you the various meaning(s) of the word. If you are on Linux or some other OS you will experience problem in creating system notifications. Will update the code for that soon.
 
 This was built in Python 3.4 and please refer to the pre-requistes required for running it successfully. 
 
