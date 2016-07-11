@@ -47,4 +47,4 @@ python setup.py install
 ```
 For nltk_data -
 -------
-1. Extract the contents in your python directory.
+1. Extract the folder and save it in your python directory.
