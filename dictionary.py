@@ -50,7 +50,11 @@ class PyDict:
 
                 antonyms=set(antonyms)
                 #print(antonyms)
-                ctypes.windll.user32.MessageBoxW(0, definitions+'\n\nSynonyms: '+', '.join(synonyms)+'\n\nAntonyms: '+', '.join(antonyms), 'Word Meaning - '+word, 0)
+                
+                    ctypes.windll.user32.MessageBoxW(0, definitions+'\n\nSynonyms: '+', '.join(synonyms)+'\n\nAntonyms: '+', '.join(antonyms), 'Word Meaning - '+word, 0) #linux users comment this out and uncomment alert given below
+                
+                    #alert(text=definitions+'\n\nSynonyms: '+', '.join(synonyms)+'\n\nAntonyms: '+', '.join(antonyms), title='Word Meaning - '+word, button='OK')
+                #ctypes.windll.user32.MessageBoxW(0, definitions+'\n\nSynonyms: '+', '.join(synonyms)+'\n\nAntonyms: '+', '.join(antonyms), 'Word Meaning - '+word, 0)
                 loop=word
                 #time.sleep(1)
 
