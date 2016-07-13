@@ -10,6 +10,7 @@ Pre-requisites -
 2. NLTK for Python 
 3. Wordnet corpus
 4. Pyperclip for Python
+5. (For Linux users) PyMsgBox library for creating alert box(refer google for installation)
 
 Usage - 
 -------
